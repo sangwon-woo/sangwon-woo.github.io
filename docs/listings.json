@@ -2,9 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/fama-french-5-factor/ff5f.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/fama-french-5-factor/ff5f.html"
     ]
   }
 ]
