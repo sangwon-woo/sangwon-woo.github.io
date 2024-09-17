@@ -1,0 +1,19 @@
+---
+title: "Sangwon Woo"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sangwon-woo-452252261/
+    - icon: github
+      text: Github
+      href: https://github.com/sangwon-woo
+
+---
+
+I have big interests in \
+- Asset Pricing \
+- Quantitative & Algorithmic Trading \
+- Portfolio Management & Optimization
