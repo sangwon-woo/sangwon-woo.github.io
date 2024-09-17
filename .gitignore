@@ -1,0 +1,49 @@
+# Quarto project specific files
+/.quarto/
+/_site/
+/_book/
+
+# Rendered output
+/docs/
+
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Project specific output files (if any)
+# Add any additional file patterns specific to your project here
+*.csv
+*.feather
+*.xlsx
+*.pdf
