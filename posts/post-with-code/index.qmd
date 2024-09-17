@@ -2,8 +2,8 @@
 title: "Post With Code"
 author: "Harlow Malloc"
 date: "2024-09-13"
-categories: [news, code, analysis]
-image: "image.jpg"
+categories: [factor model, code, analysis]
+image: "ff5f.jpg"
 ---
 
 This is a post with executable code.
